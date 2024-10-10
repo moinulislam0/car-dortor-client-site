@@ -1,0 +1,138 @@
+[
+  {
+    "service_id": "srv101",
+    "title": "Luxury Aromatherapy Package",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YMLiSdADTJDz684GfptAPxosIjHhb-IEXA&s",
+    "price": "50.90",
+    "description": "A complete package for stress relief through aromatic oils.",
+    "facility": [
+      {
+        "name": "Aromatherapy Spa",
+        "details": "Relaxing aromatherapy session with essential oils."
+      },
+      {
+        "name": "Essential Oil Selection",
+        "details": "A range of organic essential oils."
+      }
+    ]
+  },
+  {
+    "service_id": "srv102",
+    "title": "Advanced Skin Consultation",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVynloCPi7z12eZ7rpfzGfr0yiLJgvG1-rNw&s",
+    "price": "149.99",
+    "description": "Consultation with certified dermatologists for skin health.",
+    "facility": [
+      {
+        "name": "Dermatology Consultation",
+        "details": "In-depth consultation with a dermatologist."
+      },
+      {
+        "name": "Skin Analysis",
+        "details": "Detailed skin analysis for personalized treatment."
+      }
+    ]
+  },
+  {
+    "service_id": "srv103",
+    "title": "Organic Skincare Bundle",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pd9Ahzj4LaUHhKYH6J3SVE-NdsoPJBaB5Q&s",
+    "price": " 59.99",
+    "description": "A set of organic skincare products for radiant skin.",
+    "facility": [
+      {
+        "name": "Moisturizers",
+        "details": "Organic moisturizers to hydrate skin."
+      },
+      {
+        "name": "Cleansers",
+        "details": "Gentle cleansers for daily skincare."
+      }
+    ]
+  },
+  {
+    "service_id": "srv104",
+    "title": "Massage Therapy Session",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4HplMJM1r1brvn-xcA9iIrAx99Vl9w7EccA&s",
+    "price": "89.99",
+    "description": "A rejuvenating massage session for muscle relaxation.",
+    "facility": [
+      {
+        "name": "Deep Tissue Massage",
+        "details": "Relieves muscle tension with deep pressure techniques."
+      },
+      {
+        "name": "Swedish Massage",
+        "details": "A gentle massage to promote relaxation."
+      }
+    ]
+  },
+  {
+    "service_id": "srv105",
+    "title": "Facial Treatment Package",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGB6keBA7WLD5BVzMK-ikp54KKVfLZ90lWw&s",
+    "price": "120.00",
+    "description": "A specialized facial treatment for glowing, youthful skin.",
+    "facility": [
+      {
+        "name": "Hydrating Facial",
+        "details": "Replenishes moisture for a hydrated glow."
+      },
+      {
+        "name": "Anti-Aging Facial",
+        "details": "Targeted treatment to reduce fine lines and wrinkles."
+      }
+    ]
+  },
+  {
+    "service_id": "srv106",
+    "title": "Laser Skin Resurfacing",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU72QJWr9ZRY6HsVRh3wDZTCMZ4ytXDN-jPA&s",
+    "price": "299.99",
+    "description": "Laser treatment for improving skin texture and appearance.",
+    "facility": [
+      {
+        "name": "Laser Facial",
+        "details": "Non-invasive laser treatment to refresh skin."
+      },
+      {
+        "name": "Laser Wrinkle Removal",
+        "details": "Reduces fine lines and wrinkles."
+      }
+    ]
+  },
+  {
+    "service_id": "srv107",
+    "title": "Body Scrub & Glow Package",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhORwysm3YEMIsyT9tD04QvlHLLxT1Mx70pw&s",
+    "price": "75.00",
+    "description": "An exfoliating body scrub for smooth, radiant skin.",
+    "facility": [
+      {
+        "name": "Herbal Body Scrub",
+        "details": "Herbal ingredients used for gentle exfoliation."
+      },
+      {
+        "name": "Body Glow Treatment",
+        "details": "A treatment to leave your skin glowing and refreshed."
+      }
+    ]
+  },
+  {
+    "service_id": "srv108",
+    "title": "Personalized Nutrition & Wellness",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5UbmZUWS5q_zXL1DjDupaRfbdnZOtZl_uQ&s",
+    "price": "199.99",
+    "description": "Tailored nutrition and wellness plan for healthy skin.",
+    "facility": [
+      {
+        "name": "Nutrition Consultation",
+        "details": "Customized diet plan for optimal skin health."
+      },
+      {
+        "name": "Wellness Coaching",
+        "details": "Guidance on maintaining a healthy lifestyle."
+      }
+    ]
+  }
+]
